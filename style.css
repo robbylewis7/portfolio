@@ -144,7 +144,23 @@ a{
   width: 70%;
   margin: 0 auto;
   line-height: 30px;
+  opacity: .8;
+  margin-bottom: 30px;
 }
+
+.projectDecription{
+  font-weight: bold;
+}
+
+.stackInfo{
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+  width: 70%;
+  margin: 0 auto;
+  line-height: 30px;
+    opacity: .8;
+}
+
 
 .buttonSection{
   text-align: center;
