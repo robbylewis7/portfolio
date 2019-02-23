@@ -28,7 +28,7 @@ a{
 }
 
 #header{
-    height: 900px;
+    height: 100%;
     margin-bottom: 200px;
     display: flex;
     align-items: center;
